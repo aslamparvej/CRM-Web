@@ -66,7 +66,7 @@ const DashboardPreview = () => {
             <p className="mt-3 text-sm text-green-600">+15%</p>
           </Card>
 
-          <div className="rounded-3xl border bg-white p-3 shadow-2xl">
+          <div className="rounded-3xl bg-white p-3 shadow-2xl">
             <Image
               src="/dashboard-preview.png"
               alt="CRM Dashboard"
